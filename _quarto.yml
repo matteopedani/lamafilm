@@ -2,7 +2,7 @@ project:
   type: website
   
 resources:
-  - "old/*"
+  - "old/*/*/*"
 
 website:
   title: "Lama Film"
