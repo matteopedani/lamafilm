@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Lama Film"
+#  navbar:
+#    left:
+#      - href: index.qmd
+#        text: Home
+#      - about.qmd
+#    right:
+#      - text: contatti
+#        href: about.qmd
+#      - icon: envelope
+#        href: mailto:info@lamafilm.net
+#        aria-label: Email
+
+format:
+  html:
+    theme: slate
+    backgroundcolor: black
+    css: styles.css
+    toc: true
+
+editor: visual
+
