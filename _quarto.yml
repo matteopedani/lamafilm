@@ -5,7 +5,9 @@ project:
 resources:
   - "old/*"
   - "old/*/*"
-
+  - "old/*/*/*"
+  - "old/*/*/*/*"
+  
 website:
   title: "Lama Film"
 #  navbar:
