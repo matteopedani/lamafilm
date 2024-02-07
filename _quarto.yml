@@ -1,5 +1,8 @@
 project:
   type: website
+  
+resources:
+  - "old/*"
 
 website:
   title: "Lama Film"
