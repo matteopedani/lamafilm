@@ -7,6 +7,10 @@ resources:
   - "old/*/*"
   - "old/*/*/*"
   - "old/*/*/*/*"
+  - "cesareapolito/*"
+  - "cesareapolito/*/*"
+  - "cesareapolito/*/*/*"
+  - "cesareapolito/*/*/*/*"
   
 website:
   title: "Lama Film"
